@@ -1,1 +1,15 @@
-/* Add CSS Styling */
+.click-me,
+.click-me-pls {
+    font-size: 28px;
+    /* using arial because it is sans-serif like others in the list */
+    font-family: 'Helvetica', 'Arial', sans-serif;
+}
+
+.click-me {
+    background-color: #131313;
+    color: #d6d6d6;
+}
+
+.click-me-pls {
+    background-color: hsl(82, 100%, 73%);
+}
